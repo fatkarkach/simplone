@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/simplone-main/simplone.iml" filepath="$PROJECT_DIR$/simplone-main/simplone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/simplone-main.iml" filepath="$PROJECT_DIR$/.idea/simplone-main.iml" />
+    </modules>
+  </component>
+</project>
