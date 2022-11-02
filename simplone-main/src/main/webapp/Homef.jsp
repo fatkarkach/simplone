@@ -66,7 +66,7 @@
     <th>formateur</th>
     <th>promo</th>
     </thead>
-    <tbody>
+   <tbody>
     <%
         formateurDao formateurDao=new formateurDao();
         adminDao adminDao=new adminDao();
@@ -81,8 +81,6 @@
     </tr>
     <%}%>
     <%}%>
-  <%
-<%--    <%}%>--%>
     </tbody>
 </table>
 </body>
