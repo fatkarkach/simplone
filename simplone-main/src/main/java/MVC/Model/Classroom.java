@@ -34,6 +34,8 @@ public class Classroom {
         this.formateurByIdFormateur = formateurByIdFormateur;
         this.apprenanteByIdApprenante = apprenanteByIdApprenante;
     }
+       public Classroom() {
+    }
 
     @ManyToOne
     @JoinColumn(name = "id_formateur", referencedColumnName = "id_formateur", nullable = false)
